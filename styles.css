@@ -1,0 +1,25 @@
+.txt {
+    margin-top: auto;
+    font-family:  'Lucida Sans Regular';
+    max-width: 600px;
+}
+
+.title {
+    margin-top: 20px;
+    margin-bottom:5px;
+    font-size: 30px;
+    color: red;
+    text-align: left;
+
+}
+
+.author {
+    font-size: 20px;
+    color: blue;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: whitesmoke;
+}
